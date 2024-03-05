@@ -1,0 +1,24 @@
+{
+  "name": "sermana-use",
+  "version": "1.0.0",
+  "description": "An example JavaScript file that uses the sermana package.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokyy199999/sermanaUse"
+  },
+  "keywords": [
+    "example",
+    "sermana",
+    "javascript"
+  ],
+  "author": "lokyy199999",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokyy199999/sermanaUse/issues"
+  },
+  "homepage": "https://github.com/lokyy199999/sermanaUse"
+}
